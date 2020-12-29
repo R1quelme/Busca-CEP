@@ -1,2 +1,2 @@
 # Busca-CEP
-Buscando CEP com requisiçao AJAX retornando um JSON e JS
+Buscando dados do endereço através do CEP com uma requisição AJAX retornando um JSON
